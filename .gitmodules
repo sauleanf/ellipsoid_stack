@@ -1,0 +1,12 @@
+[submodule "ellipsoid_appserver"]
+	path = ellipsoid_appserver
+	url = https://github.com/sauleanf/ellipsoid_appserver
+[submodule "ellipsoid_cdk"]
+	path = ellipsoid_cdk
+	url = https://github.com/sauleanf/ellipsoid_cdk
+[submodule "ellipsoid_ui"]
+	path = ellipsoid_ui
+	url = https://github.com/sauleanf/ellipsoid_ui
+[submodule "ellipsoid_ml"]
+	path = ellipsoid_ml
+	url = git@github.com:sauleanf/ellipsoid_ml.git
